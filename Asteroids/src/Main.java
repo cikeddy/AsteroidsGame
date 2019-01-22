@@ -29,7 +29,7 @@ public class Main extends PApplet {
   
   public void settings() {
 	  size(1000, 700);
-	}
+	}//setting up window size
   
   public void setup(){
     textSize(28);
